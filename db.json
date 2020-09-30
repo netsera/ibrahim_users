@@ -1,0 +1,27 @@
+  
+{
+  "users": [
+    { "id": 1, "user": "John Dalton" , "phone": "01900000000" , "boat_used": "2" },
+    { "id": 2, "user": "Craig Alex" , "phone": "01900000000" , "boat_used": "3" },
+    { "id": 3, "user": "Omar Ali" , "phone": "01900000000" , "boat_used": "4" },
+     { "id": 4, "user": "Mary Dalton" , "phone": "01900000000" , "boat_used": "2" },
+    { "id": 5, "user": "Lala Omaro" , "phone": "01900000000" , "boat_used": "1" },
+    { "id": 6, "user": "Adeola Ayo" , "phone": "01900000000" , "boat_used": "7" },
+     { "id": 7, "user": "Isreal Amos" , "phone": "01900000000" , "boat_used": "2" },
+    { "id": 8, "user": "Alexander solo" , "phone": "01900000000" , "boat_used": "9" },
+    { "id": 9, "user": "Spencer mina" , "phone": "01900000000" , "boat_used": "4" },
+     { "id": 10, "user": "John Bayo" , "phone": "01900000000" , "boat_used": "2" },
+    { "id": 11, "user": "Rick Roland" , "phone": "01900000000" , "boat_used": "3" },
+    { "id": 12, "user": "Smith Amstrong" , "phone": "01900000000" , "boat_used": "4" },
+     { "id": 13, "user": "Jason Black" , "phone": "01900000000" , "boat_used": "2" },
+    { "id": 14, "user": "Andre Lucky" , "phone": "01900000000" , "boat_used": "9" },
+    { "id": 15, "user": "Nina Otongo" , "phone": "01900000000" , "boat_used": "4" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "netsera"
+  }
+}
